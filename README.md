@@ -122,3 +122,7 @@ func animationController(forDismissed dismissed: UIViewController) -> UIViewCont
 ## License
 
 RMPZoomTransitionAnimator-Swift is available under the MIT license.
+
+## References
+
+[RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
